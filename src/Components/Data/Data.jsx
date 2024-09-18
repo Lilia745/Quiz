@@ -1,0 +1,42 @@
+export const data = [
+    {
+        question: "What will be the result of `2 + '2'` in JavaScript?",
+        text1: "4",
+        text2: "NaN",
+        text3: "'22'",
+        text4: "undefined",
+        ans:3,
+    },
+    {
+        question: "What will `typeof NaN` return?",
+        text1: "number",
+        text2: "NaN",
+        text3: "undefined",
+        text4: "object",
+        ans:1,
+    },
+    {
+        question: "How do you declare a variable in ES6?",
+        text1: "var",
+        text2: "const",
+        text3: "variable",
+        text4: "let",
+        ans:4,
+    },
+    {
+        question: "What is JSX in React?",
+        text1: "JavaScript XML",
+        text2: "JavaScript eXtension",
+        text3: "JSON XML",
+        text4: "A component rendering library",
+        ans:1,
+    },
+    {
+        question: "How do you handle forms in React?",
+        text1: "Using props",
+        text2: "Using controlled components",
+        text3: "Using states only",
+        text4: "Using refs",
+        ans:2,
+    },
+]
